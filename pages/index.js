@@ -9,7 +9,7 @@ import Head from 'next/head'
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="gap-8 bg-gray-100 md:grid md:grid-cols-2 sm:mx-auto px-36 py-36 ">
+      <div className="gap-8 bg-gray-100 grid md:grid-cols-2 mx-auto md:px-36 md:py-36 px-4 py-4">
   
 
 
@@ -35,7 +35,7 @@ import Head from 'next/head'
 
         <div className="flex justify-center h-12 mt-6 text-2xl text-white bg-blue-500 border-2 rounded-lg cursor-pointer lg:w-full ">Log In</div>
 
-        <div className="mx-16 my-6 text-sm text-blue-500 sm:text-center ">Forgotten password</div>
+        <div className="mx-16 my-6 text-sm text-blue-500 text-center ">Forgotten password</div>
 
         <div className="flex justify-center h-10 mx-8 pt-2 text-white bg-green-400 rounded md:mx-0">Create New Account</div>
       </form>
