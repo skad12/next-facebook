@@ -37,7 +37,7 @@ import Head from 'next/head'
 
         <div className="mx-16 my-6 text-sm text-blue-500 sm:text-center ">Forgotten password</div>
 
-        <div className="flex justify-center h-10 mx-8 text-white bg-green-400 rounded md:mx-0">Create New Account</div>
+        <div className="flex justify-center h-10 mx-8 pt-2 text-white bg-green-400 rounded md:mx-0">Create New Account</div>
       </form>
     </div>
 
