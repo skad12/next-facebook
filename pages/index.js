@@ -14,7 +14,7 @@ import Head from 'next/head'
 
 
   <div className="md:py-32 ">
-    <div className="text-6xl font-bold text-blue-500 md:text-5xl lg:text-6xl ">facebook</div>
+    <div className="text-6xl font-bold text-blue-500 md:text-5xl lg:text-6xl "><a href="./">facebook</a></div>
     <div className="mt-4 text-2xl md:text-xl lg:text-2xl ">facebook helps you and share with the people in your life</div>
   </div>
 
