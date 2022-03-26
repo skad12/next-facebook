@@ -1,7 +1,7 @@
 import Head from 'next/head'
 
 
- function Home() {
+ function facebook() {
   return (
     <div>
       <Head>
@@ -53,4 +53,4 @@ import Head from 'next/head'
   )
 }
 
-export default Home;
+export default facebook;
